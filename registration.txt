@@ -1,0 +1,23 @@
+Username:itesh niroula
+Password:12345
+Email:iteshniroula@gmail.com
+Adress:damak
+Contact No:978234235
+
+Username:manish khadka
+Password:123456
+Email:manishkhadka@gmail.com
+Adress:damak
+Contact No:98232554
+
+Username:ashwin
+Password:1234
+Email:ashwin@gmail.com
+Adress:ktm
+Contact No:9822323
+
+Username:saroj
+Password:saroj1
+Email:saroj@gmail.com
+Adress:baneshwor
+Contact No:912122
